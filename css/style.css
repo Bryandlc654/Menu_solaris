@@ -46,7 +46,7 @@ h1{
     width: 16rem;
 }
 .section-menu{
-    height: 27rem;
+    height: 27%;
     width: 100%;
     padding: 1rem 0 0 1.7rem;
 }
@@ -67,15 +67,14 @@ h3{
     font-size: 15px;
 }
 h4{
+    line-height: 1;
     color: #ffffff;
     font-size: 15px;
     font-weight: 400;
 }
 .container-socialmedia{
-    margin-top: 10px;
     position: absolute;
-    width: 100%;
-    justify-content: space-between;
+    width: 10rem;
     display: block;
 }
 .container-icons{
@@ -88,10 +87,10 @@ h4{
 }
 .card-phone{
     border-radius: 10px 10px 10px 10px;
-    height: 1.8rem;
+    height: 1.5rem;
     width: 9rem;
     background-color: #e5772c;
-    padding: 4px;
+    padding: 3px 0 3px 0;
 }
 .phone-number{
     justify-content: space-between;
@@ -125,9 +124,6 @@ h4{
         height: 100vh;
         background-size: 100vw 100vh;
     }  
-    .card-phone{
-        width: 10rem;
-    }
 }
 @media (max-width:450px){
     .container-img{
@@ -139,7 +135,4 @@ h4{
         height: 100vh;
         background-size: 100vw 100vh;
     }  
-    .card-phone{
-        width: 8rem;
-    }
 }
