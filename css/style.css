@@ -44,10 +44,8 @@ h1{
 .container-menu{
     margin-top: 2rem;
     width: 16rem;
-    height: 100vh;
 }
 .section-menu{
-    background-color: #e5772c;
     height: 27rem;
     width: 100%;
     padding: 1rem 0 0 1.7rem;
