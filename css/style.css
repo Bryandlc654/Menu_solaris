@@ -44,7 +44,7 @@ h1{
 .container-menu{
     margin-top: 2rem;
     width: 16rem;
-    height: 70vh;
+    height: 100vh;
 }
 .section-menu{
     height: 27rem;
@@ -125,6 +125,9 @@ h4{
         height: 100vh;
         background-size: 100vw 100vh;
     }  
+    .card-phone{
+        width: 10rem;
+    }
 }
 @media (max-width:450px){
     .container-img{
@@ -136,4 +139,7 @@ h4{
         height: 100vh;
         background-size: 100vw 100vh;
     }  
+    .card-phone{
+        width: 8rem;
+    }
 }
