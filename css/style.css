@@ -44,7 +44,7 @@ h1{
 .container-menu{
     margin-top: 2rem;
     width: 16rem;
-    height: 32rem;
+    height: 70vh;
 }
 .section-menu{
     height: 27rem;
@@ -110,6 +110,8 @@ h4{
         height: 100vh;
     }
     .background-menu{
+        width: 100vw;
+        height: 100vh;
         background-size: 100vw 100vh;
     }
 }
@@ -119,6 +121,8 @@ h4{
         height: 100vh;
     }
     .background-menu{
+        width: 100vw;
+        height: 100vh;
         background-size: 100vw 100vh;
     }  
 }
@@ -128,6 +132,8 @@ h4{
         height: 100vh;
     }
     .background-menu{
+        width: 100vw;
+        height: 100vh;
         background-size: 100vw 100vh;
     }  
 }
