@@ -72,10 +72,11 @@ h4{
     font-weight: 400;
 }
 .container-socialmedia{
+    margin-top: 10px;
+    position: absolute;
     width: 100%;
-    padding: 0 0 0 1.7rem;
     justify-content: space-between;
-    display: flex;
+    display: block;
 }
 .container-icons{
     display: flex;
@@ -86,9 +87,9 @@ h4{
     margin-left: 10px;
 }
 .card-phone{
-    border-radius: 10px 0 0 10px;
+    border-radius: 10px 10px 10px 10px;
     height: 1.8rem;
-    width: 12rem;
+    width: 9rem;
     background-color: #e5772c;
     padding: 4px;
 }
